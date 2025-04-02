@@ -71,7 +71,7 @@ const Hero = () => {
         initial="initial"
         animate="animate"
       >
-        web developer
+        HR & Talent Acquisition
       </motion.div>
       <div className="imageContainer">
         <img src="/pic1.png" alt="" />
